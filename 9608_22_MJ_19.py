@@ -1,4 +1,6 @@
-#create two .txt files to store stuff
+#QUESTION-6
+
+#create two .txt files to store stuff 
 
 def get_info():
     pref_name = input("Enter your preferred name: ")
