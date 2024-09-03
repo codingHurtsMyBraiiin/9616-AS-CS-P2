@@ -1,7 +1,7 @@
 # 9616-AS-CS-P2
 Paper-2 pseudocode questions written in python.
 
-............................................................................
+
 
 
                         __
@@ -13,7 +13,7 @@ Paper-2 pseudocode questions written in python.
 
 
 
-............................................................................
+
 
 Make sure to actually write the pseudocode after you understood the python code since many of the python codes are not allowed in the exam.
 
